@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T18:02:03.287Z'
-dateModified: '2016-01-12T18:01:42.041Z'
+datePublished: '2016-01-12T18:06:19.692Z'
+dateModified: '2016-01-12T18:02:31.293Z'
 title: Lanzamiento de gran proyecto inmobiliario San Roque
 author: []
+sourcePath: _posts/2016-01-12-lanzamiento-de-gran-proyecto-inmobiliario-san-roque.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-12-lanzamiento-de-gran-proyecto-inmobiliario-san-roque.md
-published: true
 url: lanzamiento-de-gran-proyecto-inmobiliario-san-roque/index.html
 _type: Article
 
