@@ -1,7 +1,7 @@
 name: alunideas
 favicon: null
-layout_spectrum: 0.7193504206370562
-typography_spectrum: 0.7832270725630224
+layout_spectrum: 1
+typography_spectrum: 0.15228
 title: Blog oficial del mundo de las ideas
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9500940223224461
-  lightness: 0.1855535909999162
-  saturation: 0.7629658705554903
-  rhythmicContrast: 0.5231843416113406
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
