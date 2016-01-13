@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T02:21:52.500Z'
-dateModified: '2016-01-13T02:21:37.691Z'
+datePublished: '2016-01-13T21:37:35.642Z'
+dateModified: '2016-01-13T19:03:31.040Z'
 title: Lanzamiento de gran proyecto inmobiliario San Roque
 author: []
 sourcePath: _posts/2016-01-12-lanzamiento-de-gran-proyecto-inmobiliario-san-roque.md
@@ -34,8 +34,6 @@ Los invitados tuvieron diferentes momentos para compartir una experiencia tan es
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c468340-0407-44bb-9146-c0d0db95bb9d.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16e6dcd6-1aec-4247-a767-c238c93d2c19.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c77e6ad-d899-416a-9167-c4a97a2a3760.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2478ef16-3d5b-49e7-a54a-dcff0e82671f.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba88ccc2-9550-47f1-931a-32fc5f0a719d.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c79bb31-826d-4ab0-a484-e27b68cbbaba.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c8ca6d9-bc0d-42b6-b3a9-ed5150852342.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90913d89-84d6-4e05-b7b1-87c9ceabf991.JPG)
@@ -58,7 +56,6 @@ Los invitados tuvieron diferentes momentos para compartir una experiencia tan es
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d75c8737-3688-47bd-b822-bd3069fa2689.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f868f1ce-7066-460b-af25-89453dbbb676.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb0aabe2-cee3-4f72-a3db-20ab83b43167.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c01a6061-7d86-40e7-8a03-5f3f8b3c046f.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6783a9e9-edc2-45d2-a3ed-a7df6d949185.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c620b969-6c50-4c55-ad28-2c03f12ae183.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11c3d84d-5bc1-4172-9c70-26bdbdb20459.JPG)
@@ -149,13 +146,7 @@ Los invitados tuvieron diferentes momentos para compartir una experiencia tan es
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa6bcc7-08ca-468c-a8ed-ea62035af018.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a12b5ba-5859-4074-8ed5-523a4ada647d.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfffb610-d9f7-4c84-b07c-1e291c5c206e.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5805e0a-5908-4739-a105-44ac04204fba.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6e1424-2ea5-4e3d-9014-a410cc97d541.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d98a0f8a-297c-4316-8346-879a5abb9dd1.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43fb78aa-9f3f-4a83-937c-07c0e939699e.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f60c6a9f-8954-4837-bb87-5117ee6f5eee.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddab8a33-0cc3-481a-9d7b-bcb541fa973e.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b9c8dfe-ac96-4f20-aa32-82ddceebb5b7.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eff6901-6929-490d-86ce-e752d0c21656.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46a50a36-aa84-4c0d-b9c0-9c2e0fceee36.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25758604-19b5-4aa4-a459-baa0a14a308f.JPG)
