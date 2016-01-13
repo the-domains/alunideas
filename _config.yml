@@ -1,7 +1,7 @@
 name: alunideas
 favicon: null
-layout_spectrum: 0.75137
-typography_spectrum: 0.15228
+layout_spectrum: 0
+typography_spectrum: 0.16295
 title: Blog de alunideas.com
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#800301'
     - '#cd2300'
     - '#efccc7'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.75
