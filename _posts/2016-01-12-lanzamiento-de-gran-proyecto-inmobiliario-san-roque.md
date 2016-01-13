@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T20:25:18.913Z'
-dateModified: '2016-01-12T20:16:45.823Z'
+datePublished: '2016-01-13T02:21:48.630Z'
+dateModified: '2016-01-13T02:21:37.691Z'
 title: Lanzamiento de gran proyecto inmobiliario San Roque
 author: []
 sourcePath: _posts/2016-01-12-lanzamiento-de-gran-proyecto-inmobiliario-san-roque.md
@@ -25,7 +25,7 @@ _type: Article
 # Lanzamiento de gran proyecto inmobiliario San Roque
 
 La innovación y pasión por lo que se hace son emblemas de nuestro cliente Multiplo Gestión de Proyectos, que hace poco hizo el lanzamiento de su nuevo proyecto San Roque. Un espacio inspirado en una antigua fabrica de Soda que vuelve a ser utilizado con novedosos espacios de vivienda y comerciales. Ubicado en la carretera que conecta a Chía con Cajicá, el lanzamiento fue en un espacio encantador de la zona G de Bogotá.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/811bd304-710a-418e-9b18-fb615c6ccbfd.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/356bbf30591095a0920cd1b82c3f73daf5c40ca7.jpg)
 
 Los invitados tuvieron diferentes momentos para compartir una experiencia tan especial como el proyecto mismo. Escucharon un quinteto de manouche y probaron diferentes comidas especialmente creadas para la ocasión. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab4b0480-d803-47da-935d-4dc8923fdb38.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05211311-2028-4337-9498-a9fed2337f60.JPG)
