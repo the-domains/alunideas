@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T21:37:11.097Z'
-dateModified: '2016-01-13T21:36:54.835Z'
+datePublished: '2016-01-15T18:33:02.351Z'
+dateModified: '2016-01-15T18:32:59.017Z'
 title: Gran Lanzamiento Proyecto San Roque
 author: []
+sourcePath: _posts/2016-01-13-gran-lanzamiento-proyecto-san-roque.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-gran-lanzamiento-proyecto-san-roque.md
-published: true
 url: gran-lanzamiento-proyecto-san-roque/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/127b0be1-a689-4492-9f6a-ad4e373cca24.JPG)
+
 # Gran Lanzamiento Proyecto San Roque
 
 La innovación y pasión por lo que se hace son los
@@ -33,7 +35,6 @@ en la carretera que conecta a Chía con Cajicá, el lanzamiento fue en un
 encantador espacio de la zona G de Bogotá.
 
 ## Vida solo hay una
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/127b0be1-a689-4492-9f6a-ad4e373cca24.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1653916-1ce2-4231-b304-fe7e328e191e.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6274268a-c2ce-4a6d-b35c-3a3c84f118f5.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49235d44-8ef3-4ce8-a2a2-6468fa25e765.JPG)
