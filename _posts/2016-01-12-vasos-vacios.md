@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Comenzamos un nuevo año en alün, para reflexionar acerca de lo que el 2105 ha sido para el equipo desarrollamos una serie de mugs conmemorativos, para que cada uno recuerde y se alimente de las experiencias y aprendizajes  '
-datePublished: '2016-01-15T19:32:32.120Z'
-dateModified: '2016-01-15T19:32:31.741Z'
+datePublished: '2016-01-29T16:34:19.427Z'
+dateModified: '2016-01-29T16:34:16.583Z'
 title: Vasos vacíos
 author: []
 sourcePath: _posts/2016-01-12-vasos-vacios.md
@@ -26,6 +26,8 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c33061966c2366f32b6a2b7ac51bb7c473cb4834.jpg)
 
 # Vasos vacíos
+
+Por Camilo Martinez
 
 En Alün finalizamos 2015 realmente con el vaso medio lleno, después de un año de muchas experiencias y aprendizajes, comenzamos el 2106 con mucho optimismo...
 
