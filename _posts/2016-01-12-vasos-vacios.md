@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Comenzamos un nuevo año en alün, para reflexionar acerca de lo que el 2105 ha sido para el equipo desarrollamos una serie de mugs conmemorativos, para que cada uno recuerde y se alimente de las experiencias y aprendizajes  '
-datePublished: '2016-01-29T16:34:19.499Z'
+datePublished: '2016-01-29T16:34:19.572Z'
 dateModified: '2016-01-29T16:34:16.583Z'
 title: Vasos vacíos
 author: []
