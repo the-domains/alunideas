@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T19:32:40.927Z'
-dateModified: '2016-01-15T19:32:40.018Z'
+datePublished: '2016-01-29T16:34:34.786Z'
+dateModified: '2016-01-29T16:32:35.201Z'
 title: Gran Lanzamiento Proyecto San Roque
 author: []
 sourcePath: _posts/2016-01-13-gran-lanzamiento-proyecto-san-roque.md
@@ -25,6 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/127b0be1-a689-4492-9f6a-ad4e373cca24.JPG)
 
 # Gran Lanzamiento Proyecto San Roque
+
+Por @yayoamortegui
 
 La innovación y pasión por lo que se hace son los
 estandartes de nuestro cliente Múltiplo Gestión de Proyectos, que hace poco
