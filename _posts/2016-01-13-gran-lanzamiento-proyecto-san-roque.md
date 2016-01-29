@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T16:34:34.790Z'
+datePublished: '2016-01-29T16:34:35.220Z'
 dateModified: '2016-01-29T16:32:35.201Z'
 title: Gran Lanzamiento Proyecto San Roque
 author: []
