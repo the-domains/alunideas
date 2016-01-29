@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T16:37:25.773Z'
-dateModified: '2016-01-29T16:37:05.123Z'
+datePublished: '2016-01-29T16:39:13.858Z'
+dateModified: '2016-01-29T16:38:53.758Z'
 title: "La realidad de las maquinas.\_"
 author: []
+sourcePath: _posts/2016-01-29-la-realidad-de-las-maquinas.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-la-realidad-de-las-maquinas.md
-published: true
 url: la-realidad-de-las-maquinas/index.html
 _type: Article
 
